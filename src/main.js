@@ -1,5 +1,4 @@
 import Vue from 'vue';
-import Vuex from 'vuex';
 import router from './router';
 import MintUI from 'mint-ui';
 import Index from './index.vue';

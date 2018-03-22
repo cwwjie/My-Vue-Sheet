@@ -1,15 +1,23 @@
-# 个人网站第二期前端 第四版
+# My Vue Sheet 表单
 
-### [首页](http://119.29.140.46/)
+> 使用 WeUI 与 Mint UI  
 
-有个 dva/fetch 就不用考虑额外的东西了. 再说我也不考虑兼容性.
+## 项目预览
 
-功能也是一样, 先实现最简单的, 能用就行, 有总比没好的功能, 再考虑复杂的功能.
+[https://www.rejiejay.cn/my-vue-sheet/](https://www.rejiejay.cn/my-vue-sheet/)
 
-### 第四版的目标与期望是什么？
-—— 完成设计稿部分
+## 项目搭建
 
-### 为了达到目标与期望做了以及发生了哪些事？
+``` bash
+# 初始化项目
+npm install
 
-### 如何评估所做以及发生的事情？
+# 运行开发环境, 服务端端口热加载 localhost:8080
+npm run dev
 
+# 运行生产环境
+npm run build
+
+```
+
+更多的请查看 [Vue](https://cn.vuejs.org/)、 [WeUI](https://weui.io/)、 [Mint UI](http://mint-ui.github.io/#!/zh-cn)
